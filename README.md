@@ -1,2 +1,2 @@
 # lita
-This is Lita repository
+This is POC repository for sementic implementation.

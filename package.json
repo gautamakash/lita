@@ -1,0 +1,29 @@
+{
+  "name": "lita",
+  "version": "0.0.1",
+  "description": "This is symentic POC project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gautamakash/lita.git"
+  },
+  "keywords": [
+    "symentic",
+    "lita"
+  ],
+  "author": "Akash Gautam",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gautamakash/lita/issues"
+  },
+  "homepage": "https://github.com/gautamakash/lita#readme",
+	"devDependencies":{
+		"microformat-node": "*",
+		"request": "*",
+		"htmlparser2": "*",
+		"cheerio": "*"
+	}
+}
